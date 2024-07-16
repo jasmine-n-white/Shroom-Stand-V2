@@ -1,0 +1,13 @@
+.headerFormat {
+    background-color: purple;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    top: 0;
+    padding: 10px 50px;
+    gap: 40px;
+    position: fixed;
+    justify-content: center;
+    margin: 0px auto;
+    width: 100%;
+}
